@@ -1,7 +1,5 @@
 # Exerc-cios-Listas-I
 
-# Exercícios Python
-
 Lista de exercícios feita em Python.
 
 ## Arquivos
